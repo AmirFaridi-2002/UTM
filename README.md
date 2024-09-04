@@ -1,2 +1,2 @@
 # UTM
-A simple implementation of Univarsal Turing Machine
+A simple implementation of Universal Turing Machine
